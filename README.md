@@ -1,6 +1,8 @@
-# Animated Portfolio
+# FUTURE_FS_01
 
-This project is split into two separate repo-ready folders:
+Animated portfolio project.
+
+This project is split into three repo-ready folders:
 
 - `frontend` contains the existing portfolio UI.
 - `backend` contains the Node/Express contact form API.
